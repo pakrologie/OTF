@@ -16,5 +16,10 @@ namespace Overwatch_Client
         {
             InitializeComponent();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
