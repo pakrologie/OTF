@@ -26,5 +26,10 @@ namespace Overwatch_Client
         {
             MessageBox.Show("Je t'aime bb !");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Je t'aime bb !");
+        }
     }
 }
